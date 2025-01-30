@@ -63,6 +63,7 @@ If you run the script without arguments, it will enter interactive mode:
 The script will prompt:
 1. The domain for subdomain resolution.
 2. The IP for the port scan.
+   
 ![image](https://github.com/user-attachments/assets/f8bd4bbe-3a9e-4b98-a477-418aa1e35f4f)
 
 
